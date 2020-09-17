@@ -1,5 +1,5 @@
-# leopharma_test
-Evaluation test on gene expression for a student position in LEO Pharma pharmaceutical company.
+# LEO Pharma Test
+This is my submitted solution for the evaluation test on gene expression for a student position in LEO Pharma pharmaceutical company.
 
 The code was writen in R and the document was compiled with Markdown. 
 
